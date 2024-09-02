@@ -1,4 +1,4 @@
-# makeyourgame => gbenard / lporte / alebrume
+# makeyourgame => Duck Hunt
 
 
 ```
